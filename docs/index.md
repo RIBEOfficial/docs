@@ -12,6 +12,7 @@ hide:
     padding-left: 30px;
   }
 
+
 </style>
 
 <div align="center">
@@ -33,7 +34,7 @@ hide:
 - Dual **3.3V/500mA** power supply: One for the MCU and the other one for external IO (Sensors, ESCs,...) 
 - Complete Arduino-IDE & ESP-IDF support
 - Powered by **ESP32-C3FH4** : 
-    - Wifi enabled
+    - **Wifi enabled**
     - Bluetooth 5 (LE) enabled
     - RISC-V CPU
     - **4Mb Flash**
@@ -49,9 +50,10 @@ hide:
 
 
 [:fontawesome-solid-bolt: Flash example project ](#){ .md-button }
-[:simple-arduino: Arduino Setup  ](#){ .md-button }
+[:simple-arduino: Arduino Setup  ](setup/arduino.md){ .md-button }
 [:simple-espressif: ESP-IDF Setup  ](#){ .md-button }
 [:material-tools: Hardware  ](#){ .md-button }
+
 
 
 <br>
